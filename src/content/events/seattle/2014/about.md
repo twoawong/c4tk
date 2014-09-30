@@ -60,3 +60,4 @@ How can technology alleviate the social maladies that oppress so many? How can y
 <p>Register now to join us in Seattle, WA as we work to leveraging technology to transforms lives. Plus, you get to rub shoulders with some of the most effective global ministries, technologists, entrepreneurs, investors, hi-tech accelerators, church leaders and creative individuals from every discipline.</p>
 {{> register-button}}
 
+
