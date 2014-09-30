@@ -1,2 +1,2 @@
 we a team
-<img src="{{assets}}/images/tf2.jpg" style="float:right"/>
+<img src="{{assets}}/images/child.png" style="float:right"/>
