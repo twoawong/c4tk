@@ -1,8 +1,26 @@
+---
+title: Mentors
+cwd: src/content/events/seattle/2014/teamfortress
+---
+
 ## the team
 
 <div align="center">
 <img src="{{assets}}/images/tf2/tf2.jpg" height="397.5" width="750" style="margin-bottom:50px">
 </div>
+
+{{#compose src='*.md' cwd=cwd}}
+# Meet the {{@name}}
+<section>
+    <span class="tf2">
+    ![{{@name}}]({{assets}}/images/tf2/{{@picture}} "{{@name}}")
+    </span>
+    <p>
+        {{{@content}}}
+    </p>
+</section>
+{{/compose}}
+
 
 
 # Meet the Scout
@@ -12,6 +30,8 @@
             Born and raised in Boston, Massachusetts, the Scout is a fast-running scrapper with a baseball bat and a snarky 'in-your-face' attitude. He is the fastest mercenary on the battlefield. His Double Jump leaves slower opponents struggling to keep up and helps him navigate the terrain while dodging oncoming projectiles. Carrying a Scattergun, a Pistol, and a Bat, the Scout is ideal for aggressive fighting and flanking. The Scout is a great class for quick hit-and-run tactics for sapping away the enemies' health due to his ability to get in, do damage, and dash away before even being noticed.
         </p>
 </section>
+
+
 
 # Meet the Soldier
 <section>
