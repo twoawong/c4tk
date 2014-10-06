@@ -78,14 +78,19 @@
   border-radius: 4px;
 }
 
+.tf2 {
+  float: left;
+  margin-right: 10px
+}
+
 .mentor-card .mentor-picture img {
   width: 140px;
   height: 140px;
 }
 
 .mentor-card .mentor-titles {
-  margin: 10px;
-  font-size: 1.2em;
+  margin: 7px;
+  font-size: 1.5em;
   overflow: hidden;
 }
 
