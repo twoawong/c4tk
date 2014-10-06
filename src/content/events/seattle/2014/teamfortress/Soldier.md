@@ -1,5 +1,5 @@
 ---
-name: Soldier
+name: SOLDIER
 picture: Soldier.jpg
 
 ---

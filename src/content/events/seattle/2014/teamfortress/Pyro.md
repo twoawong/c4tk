@@ -1,5 +1,5 @@
 ---
-name: Pyro
+name: PYRO
 picture: Pyro.jpg
 
 ---

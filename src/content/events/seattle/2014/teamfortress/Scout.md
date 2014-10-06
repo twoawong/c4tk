@@ -1,5 +1,5 @@
 ---
-name: Scout
+name: SCOUT
 picture: Scout.jpg
 
 ---
